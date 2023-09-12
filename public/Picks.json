@@ -1,0 +1,74 @@
+[
+  {
+    "cover_image": "https://nft-tailwind.preview.uideck.com/src/images/picks/image-01.svg",
+    "title": "The Great Novel",
+    "author_image": "https://nft-tailwind.preview.uideck.com/src/images/picks/creator-01.png",
+    "author_name": "John Smith",
+    "author_type": "Fiction",
+    "price": 19.99,
+    "react": "120k"
+  },
+  {
+    "cover_image": "https://nft-tailwind.preview.uideck.com/src/images/picks/image-02.svg",
+    "title": "Science Explained",
+    "author_image": "https://nft-tailwind.preview.uideck.com/src/images/picks/creator-02.png",
+    "author_name": "Jane Doe",
+    "author_type": "Non-Fiction",
+    "price": 24.99,
+    "react": "85k"
+  },
+  {
+    "cover_image": "https://nft-tailwind.preview.uideck.com/src/images/picks/image-03.svg",
+    "title": "Mystery in the Mansion",
+    "author_image": "https://nft-tailwind.preview.uideck.com/src/images/picks/creator-03.png",
+    "author_name": "A. R. Detective",
+    "author_type": "Mystery",
+    "price": 14.99,
+    "react": "65k"
+  },
+  {
+    "cover_image": "https://nft-tailwind.preview.uideck.com/src/images/picks/image-04.svg",
+    "title": "The Great Novel",
+    "author_image": "https://nft-tailwind.preview.uideck.com/src/images/picks/creator-04.png",
+    "author_name": "John Smith",
+    "author_type": "Fiction",
+    "price": 19.99,
+    "react": "120k"
+  },
+  {
+    "cover_image": "https://nft-tailwind.preview.uideck.com/src/images/picks/image-05.svg",
+    "title": "Science Explained",
+    "author_image": "https://nft-tailwind.preview.uideck.com/src/images/picks/creator-05.png",
+    "author_name": "Jane Doe",
+    "author_type": "Non-Fiction",
+    "price": 24.99,
+    "react": "85k"
+  },
+  {
+    "cover_image": "https://nft-tailwind.preview.uideck.com/src/images/picks/image-06.svg",
+    "title": "Mystery in the Mansion",
+    "author_image": "https://nft-tailwind.preview.uideck.com/src/images/picks/creator-06.png",
+    "author_name": "A. R. Detective",
+    "author_type": "Mystery",
+    "price": 14.99,
+    "react": "65k"
+  },
+  {
+    "cover_image": "https://nft-tailwind.preview.uideck.com/src/images/picks/image-07.svg",
+    "title": "The Great Novel",
+    "author_image": "https://nft-tailwind.preview.uideck.com/src/images/picks/creator-07.png",
+    "author_name": "John Smith",
+    "author_type": "Fiction",
+    "price": 19.99,
+    "react": "120k"
+  },
+  {
+    "cover_image": "https://nft-tailwind.preview.uideck.com/src/images/picks/image-08.svg",
+    "title": "Science Explained",
+    "author_image": "https://nft-tailwind.preview.uideck.com/src/images/picks/creator-08.png",
+    "author_name": "Jane Doe",
+    "author_type": "Non-Fiction",
+    "price": 24.99,
+    "react": "85k"
+  }
+]

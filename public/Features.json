@@ -1,0 +1,22 @@
+[
+  {
+    "icon": "icon1.png",
+    "title": "Feature 1",
+    "description": "This is the first feature description."
+  },
+  {
+    "icon": "icon2.png",
+    "title": "Feature 2",
+    "description": "This is the second feature description."
+  },
+  {
+    "icon": "icon3.png",
+    "title": "Feature 3",
+    "description": "This is the third feature description."
+  },
+  {
+    "icon": "icon3.png",
+    "title": "Feature 4",
+    "description": "This is the forth feature description."
+  }
+]
