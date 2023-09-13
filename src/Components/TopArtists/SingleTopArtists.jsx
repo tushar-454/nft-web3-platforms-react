@@ -1,7 +1,7 @@
 const SingleTopArtists = () => {
   return (
-    <div className='gradient p-1 rounded-lg bg-backGroundGray transition'>
-      <div className='flex gap-4 justify-between items-center bg-backGroundDarkGray p-6 rounded-lg'>
+    <div className='gradient p-1 rounded-xl bg-backGroundGray transition'>
+      <div className='flex gap-4 justify-between items-center bg-backGroundDarkGray p-6 rounded-xl'>
         <div className='img'>
           <img
             src='https://nft-tailwind.preview.uideck.com/src/images/artists/image-01.png'
