@@ -11,6 +11,7 @@ export default {
       blue: '#4B3EE6',
       hoverBlue: '#3C2FED',
       transparent: '#00000000',
+      line: '#2C2C37',
     },
     backgroundImage: {},
     screens: {
