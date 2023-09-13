@@ -4,6 +4,20 @@
 @tailwind components;
 @tailwind utilities;
 
+::-webkit-scrollbar {
+  height: 4px;
+}
+::-webkit-scrollbar-thumb {
+  background-color: #888;
+}
+::-webkit-scrollbar-thumb:hover {
+  background-color: #555;
+}
+
+.gradient:hover {
+  background-image: linear-gradient(170deg, #ebc77a, #cb438c, #5142fc);
+}
+
 body {
   font-family: 'Inter', sans-serif;
   background-color: #141420;

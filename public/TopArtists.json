@@ -18,5 +18,45 @@
     "artist_name": "Emily Brown",
     "artist_image": "https://nft-tailwind.preview.uideck.com/src/images/artists/image-04.png",
     "artist_price": 600
+  },
+  {
+    "artist_name": "John Smith",
+    "artist_image": "https://nft-tailwind.preview.uideck.com/src/images/artists/image-01.png",
+    "artist_price": 500
+  },
+  {
+    "artist_name": "Jane Doe",
+    "artist_image": "https://nft-tailwind.preview.uideck.com/src/images/artists/image-02.png",
+    "artist_price": 750
+  },
+  {
+    "artist_name": "A. R. Painter",
+    "artist_image": "https://nft-tailwind.preview.uideck.com/src/images/artists/image-03.png",
+    "artist_price": 300
+  },
+  {
+    "artist_name": "Emily Brown",
+    "artist_image": "https://nft-tailwind.preview.uideck.com/src/images/artists/image-04.png",
+    "artist_price": 600
+  },
+  {
+    "artist_name": "John Smith",
+    "artist_image": "https://nft-tailwind.preview.uideck.com/src/images/artists/image-01.png",
+    "artist_price": 500
+  },
+  {
+    "artist_name": "Jane Doe",
+    "artist_image": "https://nft-tailwind.preview.uideck.com/src/images/artists/image-02.png",
+    "artist_price": 750
+  },
+  {
+    "artist_name": "A. R. Painter",
+    "artist_image": "https://nft-tailwind.preview.uideck.com/src/images/artists/image-03.png",
+    "artist_price": 300
+  },
+  {
+    "artist_name": "Emily Brown",
+    "artist_image": "https://nft-tailwind.preview.uideck.com/src/images/artists/image-04.png",
+    "artist_price": 600
   }
 ]
