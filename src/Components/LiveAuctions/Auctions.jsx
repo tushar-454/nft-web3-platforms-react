@@ -11,7 +11,7 @@ const Auctions = () => {
   }, []);
   return (
     <div>
-      <SectionHead title='Top Artists' button='View All' />
+      <SectionHead title='Live Auctions' button='View All' />
       <div className='grid gap-4 grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 py-10'>
         {auctions.map((auction, index) => (
           <Auction key={index} auction={auction} />
