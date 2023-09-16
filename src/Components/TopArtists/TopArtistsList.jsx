@@ -12,7 +12,7 @@ const TopArtistsList = () => {
     <div className='overflow-x-auto'>
       <div className={`flex gap-4 py-10 flex-nowrap w-[220rem]`}>
         {artists.map((artist, index) => (
-          <SingleTopArtists key={index} />
+          <SingleTopArtists key={index} artist={artist} />
         ))}
       </div>
     </div>
