@@ -1,5 +1,6 @@
 import Header from './Components/Header/Header';
 import Hero from './Components/Hero/Hero';
+import Auctions from './Components/LiveAuctions/Auctions';
 import TopArtists from './Components/TopArtists/TopArtists.jsx';
 
 function App() {
@@ -8,6 +9,7 @@ function App() {
       <Header />
       <Hero />
       <TopArtists />
+      <Auctions />
     </div>
   );
 }

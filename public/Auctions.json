@@ -6,7 +6,7 @@
     "author_name": "John Smith",
     "author_type": "Fiction",
     "price": 19.99,
-    "react": "120k"
+    "react": "120"
   },
   {
     "cover_image": "https://nft-tailwind.preview.uideck.com/src/images/auctions/image-02.svg",
@@ -15,7 +15,7 @@
     "author_name": "Jane Doe",
     "author_type": "Non-Fiction",
     "price": 24.99,
-    "react": "85k"
+    "react": "85"
   },
   {
     "cover_image": "https://nft-tailwind.preview.uideck.com/src/images/auctions/image-03.svg",
@@ -24,7 +24,7 @@
     "author_name": "A. R. Detective",
     "author_type": "Mystery",
     "price": 14.99,
-    "react": "65k"
+    "react": "65"
   },
   {
     "cover_image": "https://nft-tailwind.preview.uideck.com/src/images/auctions/image-04.svg",
@@ -33,6 +33,6 @@
     "author_name": "T. G. Rghter",
     "author_type": "Science",
     "price": 29.99,
-    "react": "60k"
+    "react": "60"
   }
 ]
